@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Will Bell🥺</h1>
+<h1 align="center">Hi, I'm Will Bell🥺👉👈</h1>
 <h3 align="center">A cuwious student expwowing mwathmaticaw and statisticaw appwications thwough vawious pwogwamming toows.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willb0&label=Profile%20views&color=0e75b6&style=flat" alt="willb0" /> </p>
@@ -9,13 +9,13 @@
 
 - 👯 I’m wooking to cowwabowate on **Any coow web devewopment(backend), mwachine weawning, ow othewwise exciting pwojects**
 
-- 🤝 I’m wooking fow hewp with🥺🥺🥺🥺🥺 **mawchine weawning engineewing and pipewines**🥺🥺
+- 🤝 I’m wooking fow hewp with🥺🥺🥺🥺🥺🥺👉👈 **mawchine weawning engineewing and pipewines**🥺🥺🥺👉👈
 
 - 💬 Ask me about **Django, NumPy, Pandas, BeautifulSoup, OpenCV**
 
 - 📫 How to weach me **willbell0@icloud.com**
 
-- ⚡ Fun fact **I enjoy snowboawding, weightwifting, and guitaw**🥺
+- ⚡ Fun fact **I enjoy snowboawding, weightwifting, and guitaw**🥺🥺👉👈
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

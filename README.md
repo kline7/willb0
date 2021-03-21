@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Will</h1>
-<h3 align="center">A curious student exploring mathmatical and statistical applications through various programming tools.</h3>
+<h3 align="center">A student exploring mathematical and statistical applications through various programming tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willb0&label=Profile%20views&color=0e75b6&style=flat" alt="willb0" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **machine learning engineering and pipelines**
 
-- 💬 Ask me about **Django, NumPy, Pandas, BeautifulSoup, OpenCV**
+- 💬 Ask me about **Django, NumPy, Pandas, BeautifulSoup**
 
 - 📫 How to reach me **willbell0@icloud.com**
 
